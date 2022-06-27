@@ -1,0 +1,33 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Task.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="GetOccupation" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Enter your occupation:</Value>
+    </Setting>
+    <Setting Name="GetName" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Enter your name:</Value>
+    </Setting>
+    <Setting Name="GetAge" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Enter your age:</Value>
+    </Setting>
+    <Setting Name="GreetingsUnknow" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Hello my friend! Let's get acquainted!</Value>
+    </Setting>
+    <Setting Name="Age" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="Occupation" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="Greetings" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Hello</Value>
+    </Setting>
+    <Setting Name="Name" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="IsKnown" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+  </Settings>
+</SettingsFile>
